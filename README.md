@@ -1,24 +1,9 @@
-# README
+# Veterinary Clinic
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In `/db/seeds.rb` you can find all the example data.
 
-Things you may want to cover:
+Use this:
 
-* Ruby version
+    rails db:migrate
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    rails db:seed
